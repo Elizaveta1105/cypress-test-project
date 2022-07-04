@@ -1,0 +1,20 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:headless:chrome": "cypress run --browser chrome",
+    "cy:headless:ff": "cypress run --browser firefox",
+    "cy:headed:chrome": "cypress run --headed --browser chrome",
+    "cy:headed:ff": "cypress run --headed --browser firefox"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^7.3.0",
+    "cypress": "^10.3.0"
+  }
+}

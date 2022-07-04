@@ -1,0 +1,15 @@
+{
+  "loginError": [
+    {
+      "kind": "email is invalid",
+      "email": "elizavetatest@gmail.com",
+      "password": "123456"
+    },
+    {
+      "kind": "password is invalid",
+      "email": "elizavetatest4@gmail.com",
+      "password": "124567"
+    }
+  ],
+  "errorText": "email or password is invalid"
+}
