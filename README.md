@@ -1,4 +1,4 @@
-## **Cypress Framework for Login and Registration**
+## **Cypress for Login and Registration**
 
 ### **Prerequsities**
 
@@ -10,13 +10,13 @@
 
 `git clone https://github.com/Elizaveta1105/projectConduit.git`
 
-#### ** 2. Set up dependencies by running: **
+#### 2. Set up dependencies by running:
 
 `npm init `
 `npm install cypress --save-dev`
 `npm i @faker-js/faker`
 
-#### ** 2. Set up dependencies by running: **
+#### 3. Testing phase
 The project uses [cypress](https://www.cypress.io/) for automation tests.
 
 - For running tests localy use `npm run cy:open` command and choose test suite to run
