@@ -12,9 +12,9 @@
 
 #### 2. Set up dependencies by running:
 
-`npm init` /n
-`npm install cypress --save-dev` /n
-`npm i @faker-js/faker`
+- initializing: `npm init`
+- setting up cypress: `npm install cypress --save-dev`
+- installing faker: `npm i @faker-js/faker`
 
 #### 3. Testing phase
 The project uses [cypress](https://www.cypress.io/) for automation tests.
