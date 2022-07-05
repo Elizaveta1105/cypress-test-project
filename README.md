@@ -3,6 +3,9 @@
 ### **Prerequsities**
 
 - **Node 16+**
+- Open https://demo.learnwebdriverio.com/register
+- Enter elizavetatest4@gmail.com to the Email field
+- Enter 123456 to the password field
 
 ## Requirements
 
