@@ -12,8 +12,8 @@
 
 #### 2. Set up dependencies by running:
 
-`npm init `
-`npm install cypress --save-dev`
+`npm init` /n
+`npm install cypress --save-dev` /n
 `npm i @faker-js/faker`
 
 #### 3. Testing phase
