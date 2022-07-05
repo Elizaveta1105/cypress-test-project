@@ -8,13 +8,13 @@
 
 #### 1. Clone the repository
 
-```git clone https://github.com/Elizaveta1105/projectConduit.git
+`git clone https://github.com/Elizaveta1105/projectConduit.git`
 
 #### ** 2. Set up dependencies by running: **
 
-``` npm init 
-``` npm install cypress --save-dev
-``` npm i @faker-js/faker
+`npm init `
+`npm install cypress --save-dev`
+`npm i @faker-js/faker`
 
 #### ** 2. Set up dependencies by running: **
 The project uses [cypress](https://www.cypress.io/) for automation tests.
