@@ -3,9 +3,6 @@
 ### **Prerequsities**
 
 - **Node 16+**
-- Open https://demo.learnwebdriverio.com/register
-- Enter elizavetatest4@gmail.com to the Email field
-- Enter 123456 to the password field
 
 ## Requirements
 
@@ -15,8 +12,7 @@
 
 #### 2. Set up dependencies by running:
 
-- set up cypress: `npm install cypress --save-dev`
-- install faker: `npm i @faker-js/faker`
+- run `npm ci`
 
 #### 3. Testing phase
 The project uses [cypress](https://www.cypress.io/) for automation tests.
